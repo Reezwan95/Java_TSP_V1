@@ -2,7 +2,7 @@
 Version 1 of the program to solve the Traveling Salesman Problem using Java
 
 
-This program asks the user to enter specific menu options to enter the city (node) and path (arc) data, display the cost of each path, and the graph created from the user input.
+This program asks the user to enter specific menu options to enter the city (node, including the name, latitude and longitude) and path (arc) data, display the cost of each path (calculated using the Haversine formula), and the graph created from the user input.
 
 
 The program also contains error handling for intering values outside of the pre-defined range, incorrect menu options and the same arcs (the arcs are supposed to be undirected)
