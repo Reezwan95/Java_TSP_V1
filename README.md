@@ -15,3 +15,6 @@ Implemented using 3 class files:
 -Node class file: gets and prints the node data to the console
 
 -Graph clss file: makes and prints the graph data to the console
+
+The Pro3_samireez.java/class is the main class file
+
